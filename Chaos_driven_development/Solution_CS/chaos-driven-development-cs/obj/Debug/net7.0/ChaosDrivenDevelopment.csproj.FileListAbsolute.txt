@@ -1,0 +1,15 @@
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\bin\Debug\net7.0\ChaosDrivenDevelopment.exe
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\bin\Debug\net7.0\ChaosDrivenDevelopment.deps.json
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\bin\Debug\net7.0\ChaosDrivenDevelopment.runtimeconfig.json
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\bin\Debug\net7.0\ChaosDrivenDevelopment.dll
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\bin\Debug\net7.0\ChaosDrivenDevelopment.pdb
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\obj\Debug\net7.0\ChaosDrivenDevelopment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\obj\Debug\net7.0\ChaosDrivenDevelopment.AssemblyInfoInputs.cache
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\obj\Debug\net7.0\ChaosDrivenDevelopment.AssemblyInfo.cs
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\obj\Debug\net7.0\ChaosDrivenDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\obj\Debug\net7.0\ChaosDrivenDevelopment.dll
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\obj\Debug\net7.0\refint\ChaosDrivenDevelopment.dll
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\obj\Debug\net7.0\ChaosDrivenDevelopment.pdb
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\obj\Debug\net7.0\ChaosDrivenDevelopment.genruntimeconfig.cache
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\obj\Debug\net7.0\ref\ChaosDrivenDevelopment.dll
+c:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Chaos_driven_development\Solution_CS\chaos-driven-development-cs\obj\Debug\net7.0\ChaosDrivenDevelopment.sourcelink.json

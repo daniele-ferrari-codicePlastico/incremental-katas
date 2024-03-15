@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution_CS", "Solution_CS", "{AAC57F4F-3FB5-4EF4-BA78-39995358FD17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChaosDrivenDevelopment", "Solution_CS\chaos-driven-development-cs\ChaosDrivenDevelopment.csproj", "{27148A71-1720-4FDA-A748-3C3EA14F73F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChaosDrivenDevelopment.Tests", "Solution_CS\chaos-driven-development-cs-tests\ChaosDrivenDevelopment.Tests.csproj", "{7445AE9B-1BF3-42C6-A6D7-E461CA7AED6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27148A71-1720-4FDA-A748-3C3EA14F73F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27148A71-1720-4FDA-A748-3C3EA14F73F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27148A71-1720-4FDA-A748-3C3EA14F73F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27148A71-1720-4FDA-A748-3C3EA14F73F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7445AE9B-1BF3-42C6-A6D7-E461CA7AED6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7445AE9B-1BF3-42C6-A6D7-E461CA7AED6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7445AE9B-1BF3-42C6-A6D7-E461CA7AED6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7445AE9B-1BF3-42C6-A6D7-E461CA7AED6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{27148A71-1720-4FDA-A748-3C3EA14F73F0} = {AAC57F4F-3FB5-4EF4-BA78-39995358FD17}
+		{7445AE9B-1BF3-42C6-A6D7-E461CA7AED6A} = {AAC57F4F-3FB5-4EF4-BA78-39995358FD17}
+	EndGlobalSection
+EndGlobal

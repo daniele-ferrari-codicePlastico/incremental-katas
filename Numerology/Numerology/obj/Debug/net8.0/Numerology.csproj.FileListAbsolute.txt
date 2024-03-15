@@ -1,0 +1,15 @@
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\bin\Debug\net8.0\Numerology.exe
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\bin\Debug\net8.0\Numerology.deps.json
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\bin\Debug\net8.0\Numerology.runtimeconfig.json
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\bin\Debug\net8.0\Numerology.dll
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\bin\Debug\net8.0\Numerology.pdb
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\obj\Debug\net8.0\Numerology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\obj\Debug\net8.0\Numerology.AssemblyInfoInputs.cache
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\obj\Debug\net8.0\Numerology.AssemblyInfo.cs
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\obj\Debug\net8.0\Numerology.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\obj\Debug\net8.0\Numerology.sourcelink.json
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\obj\Debug\net8.0\Numerology.dll
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\obj\Debug\net8.0\refint\Numerology.dll
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\obj\Debug\net8.0\Numerology.pdb
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\obj\Debug\net8.0\Numerology.genruntimeconfig.cache
+C:\Users\Daniele\Documents\GitHub\formazione\katas\incremental-katas\Numerology\Numerology\obj\Debug\net8.0\ref\Numerology.dll

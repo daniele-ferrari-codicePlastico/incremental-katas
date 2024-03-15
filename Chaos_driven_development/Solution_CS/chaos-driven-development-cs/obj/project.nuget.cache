@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J6TlbYJiAe/rdlnuPCxS95zto9Qde2KcW5nrTMxh4AEf+EOjdiULHiCd97e+7DsvejNqT2I+nZEAJlI1H6hciA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniele\\Documents\\GitHub\\formazione\\katas\\incremental-katas\\Chaos_driven_development\\Solution_CS\\chaos-driven-development-cs\\ChaosDrivenDevelopment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniele\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Daniele\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Daniele\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Daniele\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
